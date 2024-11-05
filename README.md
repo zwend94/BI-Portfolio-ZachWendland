@@ -1,1 +1,1 @@
-Raw data and .pbix desktop file for Accounts Receivable project.
+File repository for zmenndland.com
