@@ -1,1 +1,1 @@
-File repository for zmenndland.com
+File repository for Zach Wendland's projects
