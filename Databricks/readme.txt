@@ -1,3 +1,5 @@
+** full code pdfs folder lnks to a pdf of full Databricks workflow **
+
 1. **Top Artists - Pop-Punk & Metalcore - Spotify Analysis**
    - **Description**: Analyzed Spotify data to identify top artists in the Pop-Punk and Metalcore genres using Databricks.
    - **Files**:
