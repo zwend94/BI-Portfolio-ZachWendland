@@ -54,16 +54,15 @@ I am an Analytics Engineer with over 7 years of experience delivering transforma
 ## Skills and Tools
 
 - **Data Visualization**: Power BI, Tableau
-- **Programming Languages**: Python, SQL
-- **Data Engineering**: Databricks, Azure Data Factory
-- **Databases**: SQL Server, MySQL
+- **Programming Languages**: Python, SQL, HTML, CSS
+- **Data Engineering**: Databricks, Azure Data Factory, Postman
 - **Other Tools**: Excel, Streamlit
 
 ## Contact Information
 
 - **Email**: zmwendland@gmail.com
-- **LinkedIn**: [Zachary Wendland](https://www.linkedin.com/in/zachary-wendland-116506134/)
-- **GitHub**: [zwend94](https://github.com/zwend94)
+- **LinkedIn**: https://www.linkedin.com/in/zachary-wendland-116506134/
+- **GitHub**: zwend94](https://github.com/zwend94
 
 ---
 
